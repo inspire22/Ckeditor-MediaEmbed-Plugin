@@ -11,4 +11,4 @@ Installing the MediaEmbed Plugin
 That's it, overall pretty simple.  This plugin could also be used for inserting custom code snippets, or pretty much anything that requires a custom insert.  Enjoy!
 
 
-Orig by kent@fluidbyte.net.  http://www.fluidbyte.net/embed-youtube-vimeo-etc-into-ckeditor  Edits from comments integrated and posted by Kevin Watt.
+Orig by kent [ who is at ] fluidbyte.net.  http://www.fluidbyte.net/embed-youtube-vimeo-etc-into-ckeditor
