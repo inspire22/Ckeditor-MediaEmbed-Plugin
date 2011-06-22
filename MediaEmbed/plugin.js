@@ -11,7 +11,7 @@
            CKEDITOR.dialog.add( 'MediaEmbedDialog', function (editor)
            {
               return {
-                 title : 'Embed Media Dialog',
+                 title : 'Paste Embed Codes',
                  minWidth : 550,
                  minHeight : 200,
                  contents :
@@ -27,7 +27,7 @@
                            id : 'pageMediaEmbed',
                            label : 'Embed Media',
                            style : 'width : 100%;',
-                           html : '<iframe src="'+me.path+'/dialogs/mediaembed.html" frameborder="0" name="iframeMediaEmbed" id="iframeMediaEmbed" allowtransparency="1" style="width:100%;margin:0;padding:0;"></iframe>'
+                           html : '<iframe src="'+me.path+'dialogs/mediaembed.html" frameborder="0" name="iframeMediaEmbed" id="iframeMediaEmbed" allowtransparency="1" style="width:100%;margin:0;padding:0;"></iframe>'
                           }
                                    ]
                           }
